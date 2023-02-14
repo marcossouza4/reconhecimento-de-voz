@@ -25,7 +25,7 @@ h1{
 }
 
 h3{
-    font-size: 2em;
+    font-size: 4em;
     margin-top: 20px;
 }
 
@@ -33,6 +33,11 @@ h4{
     font-size: 3em;
     color: aliceblue;
 }
+
+ol{
+    font-size: 3em;
+    margin-top: 10px;
+    color: aliceblue;
 
 .mensagem{
     font-size: 1.5em;
